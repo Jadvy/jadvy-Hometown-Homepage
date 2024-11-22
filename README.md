@@ -19,15 +19,6 @@ This project was created as a solo project to demonstrate fundamental web develo
 - **Responsive Design**: Adapts to different screen sizes for better user experience.
 - **Navigation Bar**: Allows quick access to various sections of the page.
 - **About Section with Image**: Includes a visually appealing image of Brazzaville alongside descriptive text.
+- **Image Gallery**: Features multiple images showcasing the beauty of Brazzaville. 
 - **Clean Layout**: Organized sections with a balance of text and visuals.
 - **Basic Styling**: Warm colors inspired by African tones and simple yet effective design.
-
----
-
-## 📂 File Structure
-
-The project contains the following files:
-Hometown-Homepage/ ├── index.html # Main HTML file 
-├── styles.css # CSS file for styling ├── brazzaville.jpg # Image of Brazzaville 
-└── README.md # Project documentation
-
